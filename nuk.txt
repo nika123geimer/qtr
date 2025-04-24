@@ -1,1 +1,1 @@
-yle
+sampAddChatMessage("testing",-1)
